@@ -393,12 +393,12 @@
         },
         {
           "id": "com.vicmatskiv:mw:0.4.4.6@jar",
-          "name": "Modern Warfare 2.0 Contagion",
+          "name": "Modern Warfare 3.0 Contagion",
           "type": "ForgeMod",
           "artifact": {
             "size": 27545802,
-            "url": "https://raw.githubusercontent.com/karu724/Dolphin-distribution/main/forgemods/required/mw_2.0-0.4.4.6_mc1.12.2.jar",
-            "MD5": "69cbe3bd707a5284b1af20ebf0a9b0b9"
+            "url": "https://cdn.discordapp.com/attachments/1002040657604509807/1247842461347483689/mw3.0_sqr-0.7.25_BETA_mc1.12.2_3.jar?ex=66617f5a&is=66602dda&hm=58d26dc9b76c9751a86f2ba55ede19d02bd74fedecc1639b6f064f45962adafb&",
+            "MD5": "48688BF872F7B7FF703FC169F1C0349F"
           }
         },
         {
